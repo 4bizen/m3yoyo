@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Playlist editor",
+  "name": "Create playlist editor",
   "icons": [
     {
       "src": "favicon.ico",
